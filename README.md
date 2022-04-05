@@ -42,7 +42,7 @@ B.Tech Student pursuing Computer Science and Engineering (Pre final year). Have 
   
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarchie-05&show_icons=true&locale=en&layout=compact" alt="aarchie-05" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarchie-05&show_icons=true&locale=en&layout=compact" alt="aarchie-05"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aarchie-05&show_icons=true&locale=en" alt="aarchie-05" height="200" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aarchie-05&show_icons=true&locale=en" alt="aarchie-05"/></p>
 
