@@ -44,6 +44,6 @@ B.Tech Student pursuing Computer Science and Engineering (Pre final year). Have 
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarchie-05&show_icons=true&locale=en&layout=compact" alt="aarchie-05" width="350"/>           
-  <img src="https://github-readme-stats.vercel.app/api?username=aarchie-05&show_icons=true&locale=en" alt="aarchie-05" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aarchie-05&show_icons=true&locale=en" alt="aarchie-05" width="350" height="200"/>
 </div>
 
